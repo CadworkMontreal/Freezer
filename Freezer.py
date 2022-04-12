@@ -8,7 +8,7 @@ import element_controller as ec
 import menu_controller as mc
 import visualization_controller as vc
 
-# Localization
+# Localization: Edit this section
 freeze_active_elements_menu_item = 'Freeze Active'
 thaw_active_elements_menu_item = 'Thaw Active'
 activate_frozen_elements_menu_item = 'Activate Frozen'
