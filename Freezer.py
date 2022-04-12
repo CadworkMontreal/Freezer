@@ -50,5 +50,5 @@ if selected_menu_item == freeze_active_elements_menu_item:
     freeze_active_elements()
 elif selected_menu_item == thaw_active_elements_menu_item:
     thaw_active_elements()
-elif selected_menu_item == '':
+elif selected_menu_item == activate_frozen_elements_menu_item:
     activate_frozen_elements()
