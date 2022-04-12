@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PluginInfo>
+    <Version>1.0.0</Version>
+    <Date>2022/04/12</Date>
+    <Author>Cadwork Montreal</Author>
+    <Name>
+        <Text language="German"/>
+        <Text language="English">Freezer</Text>
+        <Text language="French"/>
+        <Text language="Italian"/>
+        <Text language="Spanish"/>
+        <Text language="Czech"/>
+        <Text language="Finnish"/>
+        <Text language="Russian"/>
+        <Text language="Polish"/>
+        <Text language="Romanian"/>
+        <Text language="Norwegian"/>
+        <Text language="Chinese"/>
+        <Text language="Portuguese"/>
+        <Text language="Estonian"/>
+        <Text language="Japanese"/>
+    </Name>
+    <Description>
+        <Text language="German"/>
+        <Text language="English">
+            <![CDATA[
+This plugin can be used to freeze (lock) and thaw (unlock) elements in the 3D file. It can also activate frozen (locked) elements.
+]]>
+        </Text>
+        <Text language="French"/>
+        <Text language="Italian"/>
+        <Text language="Spanish"/>
+        <Text language="Czech"/>
+        <Text language="Finnish"/>
+        <Text language="Russian"/>
+        <Text language="Polish"/>
+        <Text language="Romanian"/>
+        <Text language="Norwegian"/>
+        <Text language="Chinese"/>
+        <Text language="Portuguese"/>
+        <Text language="Estonian"/>
+        <Text language="Japanese"/>
+    </Description>
+</PluginInfo>
